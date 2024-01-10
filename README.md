@@ -1,4 +1,4 @@
-## Project-005 : Media Query and CSS-Variables Example
+## Project-005 : Responsive Web Design - Media Queries and CSS-Variables Example
 
 [Click Me!](https://kaplanh.github.io/Yandex-Landing-Page/)
 
@@ -33,7 +33,7 @@ Media Query and CSS-Variables Example (folder)
 
 -   HTML
 -   Css
-    -   Media Query
+    -   Media Queries
     -   CSS-Variables
     -   Pseudo-classes
     -   Pseudo-elements

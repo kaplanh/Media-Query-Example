@@ -1,6 +1,6 @@
 ## Project-005 : Responsive Web Design - Media Queries and CSS-Variables Example
 
-[Click Me!](https://kaplanh.github.io/Yandex-Landing-Page/)
+[Click Me!]( https://kaplanh.github.io/MediaQuery-CssVariables-Example/)
 
 ![yandex landing page](https://github.com/kaplanh/Yandex-Landing-Page/assets/101884444/d20eedc2-207b-45a3-ba43-67b4e4714161)
 

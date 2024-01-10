@@ -2,7 +2,8 @@
 
 [Click Me!]( https://kaplanh.github.io/MediaQuery-CssVariables-Example/)
 
-![yandex landing page](https://github.com/kaplanh/Yandex-Landing-Page/assets/101884444/d20eedc2-207b-45a3-ba43-67b4e4714161)
+![responsive design web](https://github.com/kaplanh/MediaQuery-CssVariables-Example/assets/101884444/0a6d9dd7-c9d2-4384-9d60-31cf26f90a77)
+
 
 
 ## Description

@@ -66,6 +66,11 @@ p {
     line-height: var(--line-h-xl);
 }
 
+p::first-letter {
+    color: var(--red-dark);
+    font-size: xx-large;
+}
+
 header.hero img {
     width: 100%;
     min-width: 300px;
